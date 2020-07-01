@@ -17,7 +17,7 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 Problem | Solution
 -------------|---------
 [Weird Algorithm](https://cses.fi/problemset/task/1068) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1068.py)
-[Missing Number](https://cses.fi/problemset/task/1083) | [Solution]((https://github.com/destinationunknown/CSES/blob/master/1083.py)
+[Missing Number](https://cses.fi/problemset/task/1083) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1083.py)
 [Repetitions](https://cses.fi/problemset/task/1069) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1069.py)
 [Increasing Array](https://cses.fi/problemset/task/1094) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1094.py)
 [Permutations](https://cses.fi/problemset/task/1070) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1070.py)
