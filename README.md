@@ -26,4 +26,4 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 | [Trailing Zeros](https://cses.fi/problemset/task/1618)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/1618.py) |
 | [Coin Piles](https://cses.fi/problemset/task/1754)          | [Solution](https://github.com/destinationunknown/CSES/blob/master/1754.py) |
 | [Palindrome Reorder](https://cses.fi/problemset/task/1755)  | [Solution](https://github.com/destinationunknown/CSES/blob/master/1755.py) |
-| [Creating Strings 1](https://cses.fi/problemset/task/1622/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1622.py) |
+| [Creating Strings I](https://cses.fi/problemset/task/1622/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1622.py) |
