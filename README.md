@@ -23,6 +23,7 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 | [Permutations](https://cses.fi/problemset/task/1070)        | [Solution](https://github.com/destinationunknown/CSES/blob/master/1070.py) |
 | [Two Knights](https://cses.fi/problemset/task/1072)         | [Solution](https://github.com/destinationunknown/CSES/blob/master/1072.py) |
 | [Two Sets](https://cses.fi/problemset/task/1092)            | [Solution](https://github.com/destinationunknown/CSES/blob/master/1092.py) |
+| [Bit Strings](https://cses.fi/problemset/task/1617/)        | [Solution](https://github.com/destinationunknown/CSES/blob/master/1617.py) |
 | [Trailing Zeros](https://cses.fi/problemset/task/1618)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/1618.py) |
 | [Coin Piles](https://cses.fi/problemset/task/1754)          | [Solution](https://github.com/destinationunknown/CSES/blob/master/1754.py) |
 | [Palindrome Reorder](https://cses.fi/problemset/task/1755)  | [Solution](https://github.com/destinationunknown/CSES/blob/master/1755.py) |
