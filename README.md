@@ -27,3 +27,4 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 | [Coin Piles](https://cses.fi/problemset/task/1754)          | [Solution](https://github.com/destinationunknown/CSES/blob/master/1754.py) |
 | [Palindrome Reorder](https://cses.fi/problemset/task/1755)  | [Solution](https://github.com/destinationunknown/CSES/blob/master/1755.py) |
 | [Creating Strings I](https://cses.fi/problemset/task/1622/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1622.py) |
+| [Apple Division](https://cses.fi/problemset/result/645643/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1623.py) |
