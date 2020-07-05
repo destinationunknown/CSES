@@ -21,6 +21,7 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 | [Repetitions](https://cses.fi/problemset/task/1069)         | [Solution](https://github.com/destinationunknown/CSES/blob/master/1069.py) |
 | [Increasing Array](https://cses.fi/problemset/task/1094)    | [Solution](https://github.com/destinationunknown/CSES/blob/master/1094.py) |
 | [Permutations](https://cses.fi/problemset/task/1070)        | [Solution](https://github.com/destinationunknown/CSES/blob/master/1070.py) |
+| [Number Spiral](https://cses.fi/problemset/task/1071/)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/1071.py) |
 | [Two Knights](https://cses.fi/problemset/task/1072)         | [Solution](https://github.com/destinationunknown/CSES/blob/master/1072.py) |
 | [Two Sets](https://cses.fi/problemset/task/1092)            | [Solution](https://github.com/destinationunknown/CSES/blob/master/1092.py) |
 | [Bit Strings](https://cses.fi/problemset/task/1617/)        | [Solution](https://github.com/destinationunknown/CSES/blob/master/1617.py) |
