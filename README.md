@@ -30,3 +30,9 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 | [Palindrome Reorder](https://cses.fi/problemset/task/1755)  | [Solution](https://github.com/destinationunknown/CSES/blob/master/1755.py) |
 | [Creating Strings I](https://cses.fi/problemset/task/1622/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1622.py) |
 | [Apple Division](https://cses.fi/problemset/result/645643/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1623.py) |
+
+### Sorting and Searching
+
+| Problem                                                   | Solution                                                                   |
+| --------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1621.py) |
