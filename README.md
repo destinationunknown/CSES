@@ -36,3 +36,4 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 | Problem                                                   | Solution                                                                   |
 | --------------------------------------------------------- | -------------------------------------------------------------------------- |
 | [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1621.py) |
+| [Apartments](https://cses.fi/problemset/task/1084/)       | [Solution](https://github.com/destinationunknown/CSES/blob/master/1084.py) |
