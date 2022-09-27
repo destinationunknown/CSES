@@ -14,27 +14,27 @@ From the [CSES website](https://cses.fi/problemset/text/1810)
 
 ### Introductory Problems
 
-| Problem                                                     | Solution                                                                   |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Weird Algorithm](https://cses.fi/problemset/task/1068)     | [Solution](https://github.com/destinationunknown/CSES/blob/master/1068.py) |
-| [Missing Number](https://cses.fi/problemset/task/1083)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/1083.py) |
-| [Repetitions](https://cses.fi/problemset/task/1069)         | [Solution](https://github.com/destinationunknown/CSES/blob/master/1069.py) |
-| [Increasing Array](https://cses.fi/problemset/task/1094)    | [Solution](https://github.com/destinationunknown/CSES/blob/master/1094.py) |
-| [Permutations](https://cses.fi/problemset/task/1070)        | [Solution](https://github.com/destinationunknown/CSES/blob/master/1070.py) |
-| [Number Spiral](https://cses.fi/problemset/task/1071/)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/1071.py) |
-| [Two Knights](https://cses.fi/problemset/task/1072)         | [Solution](https://github.com/destinationunknown/CSES/blob/master/1072.py) |
-| [Two Sets](https://cses.fi/problemset/task/1092)            | [Solution](https://github.com/destinationunknown/CSES/blob/master/1092.py) |
-| [Bit Strings](https://cses.fi/problemset/task/1617/)        | [Solution](https://github.com/destinationunknown/CSES/blob/master/1617.py) |
-| [Trailing Zeros](https://cses.fi/problemset/task/1618)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/1618.py) |
-| [Coin Piles](https://cses.fi/problemset/task/1754)          | [Solution](https://github.com/destinationunknown/CSES/blob/master/1754.py) |
-| [Palindrome Reorder](https://cses.fi/problemset/task/1755)  | [Solution](https://github.com/destinationunknown/CSES/blob/master/1755.py) |
-| [Creating Strings I](https://cses.fi/problemset/task/1622/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1622.py) |
-| [Apple Division](https://cses.fi/problemset/task/1623)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/1623.py) |
+| Problem                                                     | Solution                                                                          |
+|-------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [Weird Algorithm](https://cses.fi/problemset/task/1068)     | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1068.py) |
+| [Missing Number](https://cses.fi/problemset/task/1083)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1083.py) |
+| [Repetitions](https://cses.fi/problemset/task/1069)         | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1069.py) |
+| [Increasing Array](https://cses.fi/problemset/task/1094)    | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1094.py) |
+| [Permutations](https://cses.fi/problemset/task/1070)        | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1070.py) |
+| [Number Spiral](https://cses.fi/problemset/task/1071/)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1071.py) |
+| [Two Knights](https://cses.fi/problemset/task/1072)         | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1072.py) |
+| [Two Sets](https://cses.fi/problemset/task/1092)            | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1092.py) |
+| [Bit Strings](https://cses.fi/problemset/task/1617/)        | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1617.py) |
+| [Trailing Zeros](https://cses.fi/problemset/task/1618)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1618.py) |
+| [Coin Piles](https://cses.fi/problemset/task/1754)          | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1754.py) |
+| [Palindrome Reorder](https://cses.fi/problemset/task/1755)  | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1755.py) |
+| [Creating Strings I](https://cses.fi/problemset/task/1622/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1622.py) |
+| [Apple Division](https://cses.fi/problemset/task/1623)      | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1623.py) |
 
 ### Sorting and Searching
 
-| Problem                                                   | Solution                                                                   |
-| --------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/1621.py) |
-| [Apartments](https://cses.fi/problemset/task/1084/)       | [Solution](https://github.com/destinationunknown/CSES/blob/master/1084.py) |
-| [Ferris Wheel](https://cses.fi/problemset/task/1090/)     | [Solution](https://github.com/destinationunknown/CSES/blob/master/1090.py) |
+| Problem                                                   | Solution                                                                          |
+|-----------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [Distinct Numbers](https://cses.fi/problemset/task/1621/) | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1621.py) |
+| [Apartments](https://cses.fi/problemset/task/1084/)       | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1084.py) |
+| [Ferris Wheel](https://cses.fi/problemset/task/1090/)     | [Solution](https://github.com/destinationunknown/CSES/blob/master/python/1090.py) |
